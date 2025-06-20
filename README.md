@@ -34,7 +34,7 @@ text
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/GithubUsername/submission_reminder_app_GithubUsername.git
+   git clone https://github.com/MHiirwa/submission_reminder_app_MHiirwa.git
    cd submission_reminder_app_GithubUsername
 Run the setup script:
 
