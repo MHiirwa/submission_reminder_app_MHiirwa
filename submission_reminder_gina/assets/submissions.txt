@@ -1,0 +1,10 @@
+student, assignment, submission status
+Chinemerem, Shell Navigation, not submitted
+Chiagoziem, Git, submitted
+Ahmza, Travel bank, not submitted
+Nicia, Newbooking, submitted
+Delphine, Trueblue, not submitted
+Gina, Snapfinance, submitted
+Tracy, Jetblue, not submitted 
+Divine, Shell Navigation, not submitted
+Anissa, Shell Basics, submitted
